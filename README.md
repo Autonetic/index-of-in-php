@@ -1,6 +1,12 @@
 # Custom index of page in php
 Customise what is displayed when a user goes to an un-built directory on your website. usually you will see a simple white page with links called "Index of [directory]".. this little php script is simple to use and provides a better feel to your un worked on pages or downloads list.
 
+#### Features
+- File / Folder recognition
+- Automatic page name
+- Filesize of every document computed in a readable format 
+
+
 ## How to use:
 Simply edit the `index.php` file changing line 53 to be your Font-Awesome free URL.
 ```
