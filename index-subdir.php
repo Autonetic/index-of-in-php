@@ -85,6 +85,15 @@ function formatBytes($bytes, $precision = 2) {  //Function used in above listFil
     ?>  
   </div>
 </div>
+
+<div class="container mt-3">
+  <div class="list-group">
+    <?php  
+    echo renderData('subDirectory'); //Using the call on sub directory
+    ?>  
+  </div>
+</div>
+
 <div class="container mt-3">
   <hr>
   <?php 
