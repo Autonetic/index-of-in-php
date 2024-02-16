@@ -11,6 +11,10 @@ Simply edit the `index.php` file changing line 53 to be your Font-Awesome free U
 
 Now drop the php file into any directory you havent built yet! visit the URL and thats it!
 
+### Screenshots
+
+![alt text](https://github.com/Autonetic/index-of-in-php/blob/main/index-of-to-php.png?raw=true)
+
 
 # Thanks!
 If you like my scripts, Please consider checking out my website! https://autonetix.co 
